@@ -1,5 +1,6 @@
 ---
 homebrew_packages:
+  - nvim
   - git
   - jq
   - wget
@@ -16,6 +17,7 @@ homebrew_packages:
   - imagemagick
   - miniconda
   - ripgrep
+  - zoxide
 
 homebrew_cask_packages:
   - 1password
@@ -23,8 +25,6 @@ homebrew_cask_packages:
   - discord
   - dropbox
   - google-chrome
-  - iterm2
-  - slack
   - spotify
   - vlc
   - visual-studio-code
@@ -40,6 +40,6 @@ mas_installed_apps:
   - { id: 1475387142, name: "Tailscale" }
   - { id: 1289583905, name: "Pixelmator Pro" }
   - { id: 1444636541, name: "Photomator" }
-  - { id: 904280696, name: "Things 3" }
+  - { id: 904280696,  name: "Things 3" }
   - { id: 1444383602, name: "Goodnotes 6" }
   - { id: 6443412717, name: "Logoist 5" }

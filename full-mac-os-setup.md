@@ -1,6 +1,6 @@
-# Full Mac Setup Process (for José and Trace)
+# Full Mac Setup Process
 
-Most of the things listed in here are based on a note that I have on my Craft docs. Some of the things listed in here I haven't automated
+Most of the things listed in here are based on a note that I have on my Obsidian Vault. Some of the things listed in here I haven't automated
 
 ## Initial steps on a new Mac
 
@@ -9,22 +9,16 @@ Most of the things listed in here are based on a note that I have on my Craft do
 - Install Ansible (more details in [README.md](./README.md)).
 - Install [oh-my-zsh](https://ohmyz.sh/)
 - Install the following Apps:
-  - Install [Microsoft 365](https://www.microsoft.com/es-mx/microsoft-365/microsoft-office) and remove/opt-out from:
-    - OneDrive
-    - PowerPoint
-    - Teams
-    - OneNote
-    - Outlook
   - Bartender 5
-  - Arc browser
   - OBS
   - Steam
   - [Go](https://go.dev/)
   - [Rust](https://www.rust-lang.org/)
+  - [Little Snitch](https://obdev.at/products/littlesnitch/index.html)
 - Manual settings to change
   - System Preferences:
     - Accessibility > Display > Reduce Motion
-    - Keyboard > Input Sources > Add English or Latin American
+    - Keyboard > Input Sources > Add English and/or Latin American
     - Keyboard > Keyboard shortcuts > Mission Control > Move left (right option + left ) and Move Right (right option + right)
   - Dock:
     - Add Applications and Downloads
@@ -37,3 +31,4 @@ Most of the things listed in here are based on a note that I have on my Craft do
 
 - Deauthorize Apple Music in Music App
 - Follow the steps from the Apple [guide](https://support.apple.com/en-au/HT212749)
+
